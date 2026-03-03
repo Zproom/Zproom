@@ -2,7 +2,7 @@
 
 I’m a data professional with experience building and maintaining data pipelines, economic models, and statistical software. I currently work at the Federal Reserve and am based in Washington, DC.
 
-My GitHub contains a collection of personal and academic projects. GDELT is an end-to-end data science project that uses global events data to construct a novel social unrest index. MachineLearning includes my implementations of common machine learning algorithms, originally developed as part of a graduate-level machine learning course at Johns Hopkins. Foorum and Mail are full-stack web applications built with Django, created as part of my coursework at Harvard Extension School.
+My GitHub contains a collection of personal and academic projects. **GDELT** is an end-to-end data science project that uses global events data to construct a novel social unrest index. **MachineLearning** includes my implementations of common machine learning algorithms, originally developed as part of a graduate-level machine learning course at Johns Hopkins. **Foorum** and **Mail** are full-stack web applications built with Django, created as part of my coursework at Harvard Extension School.
 
 Your feedback is welcome!
 
